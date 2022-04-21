@@ -16,4 +16,4 @@ I Love code and create new stuff, i like too much to discover new technologies a
 
 [![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=maarcoantonio&show_icons=true&title_color=fff&icon_color=37aaf&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/maarcoantonio)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/maarcoantonio)
+
